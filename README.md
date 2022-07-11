@@ -1,1 +1,1 @@
-# 100 Codes for Final Project course Introduction to Algorithms & Programming Techniques
+# 100 Codes in C for Final Project course Introduction to Algorithms & Programming Techniques
